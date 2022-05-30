@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="92.001656mm"
+   height="129.5mm"
+   viewBox="0 0 92.001657 129.5"
+   version="1.1"
+   id="svg2580"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="federal_50ct_small.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2582"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.90583672"
+     inkscape:cx="213.06268"
+     inkscape:cy="541.48832"
+     inkscape:window-width="850"
+     inkscape:window-height="1400"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2577" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-97.215047,93.13469)">
+    <path
+       id="rect22645"
+       style="fill:none;stroke:#808080;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 108.71434,-92.88469 h 69 v 54.500207 c 15.00441,0 15.0019,20 0,20 V 36.11531 h -69 v -54.499793 c -14.996787,0 -15.001327,-20 0,-20 z"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+</svg>
